@@ -1,0 +1,27 @@
+# ---- Core Speech and TTS ----
+TTS==0.22.0
+librosa==0.10.0
+soundfile==0.12.1
+pydub==0.25.1
+torch==1.12.1
+torchaudio==0.12.1
+
+# ---- Web Frameworks ----
+fastapi==0.120.4
+uvicorn==0.38.0
+python-multipart==0.0.20
+
+# ---- Frontend (Streamlit UI) ----
+streamlit==1.51.0
+requests==2.32.3
+
+# ---- Multilingual / Translation Support ----
+deep-translator==1.11.4
+langdetect==1.0.9
+
+# ---- Utils ----
+numpy==1.22.0
+scipy==1.9.3
+resampy==0.4.3
+GitPython==3.1.45
+sounddevice==0.4.7

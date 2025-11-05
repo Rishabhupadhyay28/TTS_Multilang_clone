@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Audio / Output
+outputs/
+uploads/
+*.wav
+*.mp4
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Cache
+*.log
+*.json
+*.tmp
